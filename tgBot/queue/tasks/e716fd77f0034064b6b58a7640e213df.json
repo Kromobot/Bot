@@ -1,0 +1,22 @@
+{
+  "id": "e716fd77f0034064b6b58a7640e213df",
+  "type": "video",
+  "created_at": "2025-09-25T11:33:37.280966+03:00",
+  "status": "SCHEDULED",
+  "attempts_send": 0,
+  "next_retry_at": "2025-09-25T11:33:37.280966+03:00",
+  "run_at": "2025-10-01T13:59:00+03:00",
+  "url": null,
+  "video_path": "C:\\Users\\Пользователь\\Desktop\\pythonProject1\\tgBot\\queue\\media\\tg_ee7eacc425174847a809f6bcb38c6ab8.mp4",
+  "photo_path": null,
+  "thumb_path": "C:\\Users\\Пользователь\\Desktop\\pythonProject1\\tgBot\\queue\\media\\tg_ee7eacc425174847a809f6bcb38c6ab8.jpg",
+  "duration": 22,
+  "width": 576,
+  "height": 576,
+  "caption": null,
+  "content_hash": "b3603e91171e398d24a6e6ff479098f783d9834818b3b22387e1113921cd6ba4",
+  "last_error": null,
+  "tg_file_id": "BAACAgIAAxkBAAIDpWjU_prA3yfJR_XAfDf_zITgtFkCAAJogQACH9aoSgABNwXcRfTM8TYE",
+  "tg_file_unique_id": "AgADaIEAAh_WqEo",
+  "tg_mime": "video/mp4"
+}

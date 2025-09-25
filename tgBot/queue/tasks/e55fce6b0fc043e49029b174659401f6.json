@@ -1,0 +1,20 @@
+{
+  "id": "e55fce6b0fc043e49029b174659401f6",
+  "type": "video",
+  "created_at": "2025-09-24T23:21:07.687500+03:00",
+  "status": "SCHEDULED",
+  "attempts_download": 0,
+  "attempts_send": 0,
+  "next_retry_at": "2025-09-24T23:21:07.687500+03:00",
+  "run_at": "2025-10-06T10:54:56+03:00",
+  "url": null,
+  "video_path": "queue\\media\\tg_video_516_1.mp4",
+  "photo_path": null,
+  "thumb_path": "C:\\Users\\Пользователь\\Desktop\\pythonProject1\\tgBot\\queue\\media\\tg_video_516.jpg",
+  "duration": 6,
+  "width": 480,
+  "height": 578,
+  "caption": null,
+  "last_error": null,
+  "content_hash": "ef3908ca90f664bd88345ae68590cba5290ca761f26df60d87fc71193af446bb"
+}

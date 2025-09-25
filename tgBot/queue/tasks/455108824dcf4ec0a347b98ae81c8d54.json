@@ -1,0 +1,19 @@
+{
+  "id": "455108824dcf4ec0a347b98ae81c8d54",
+  "type": "video",
+  "created_at": "2025-09-25T09:58:51.079140+02:00",
+  "status": "SCHEDULED",
+  "attempts_send": 0,
+  "next_retry_at": "2025-09-25T09:58:51.079140+02:00",
+  "run_at": "2025-09-30T08:17:00+02:00",
+  "url": null,
+  "video_path": "C:\\Users\\Пользователь\\Desktop\\pythonProject1\\tgBot\\queue\\media\\tg_ba81414beb6e4aaf8be20dcf48582b74.mp4",
+  "photo_path": null,
+  "thumb_path": "C:\\Users\\Пользователь\\Desktop\\pythonProject1\\tgBot\\queue\\media\\tg_ba81414beb6e4aaf8be20dcf48582b74.jpg",
+  "duration": 15,
+  "width": 1080,
+  "height": 1080,
+  "caption": "\"Мэмчик\"\nСос мыслом\n(Да ну нахуй, я его сделал. Пришлось несколько раз откладывать из за того, что озвучка хуй пойми как генерировалась)",
+  "content_hash": "d126931367ea3276ad92866e2a61d1d61bacfe0528ca6ef5d1e778a653ed272b",
+  "last_error": null
+}

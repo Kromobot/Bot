@@ -1,0 +1,20 @@
+{
+  "id": "af3f8caf5d6344ab8e042c52ca02fd19",
+  "type": "photo",
+  "created_at": "2025-09-24T23:45:13.871152+03:00",
+  "status": "SCHEDULED",
+  "attempts_download": 0,
+  "attempts_send": 0,
+  "next_retry_at": "2025-09-24T23:45:13.871152+03:00",
+  "run_at": "2025-10-01T21:39:26+03:00",
+  "url": null,
+  "video_path": null,
+  "photo_path": "C:\\Users\\Пользователь\\Desktop\\pythonProject1\\tgBot\\queue\\media\\tg_photo_531.jpg",
+  "thumb_path": null,
+  "duration": null,
+  "width": null,
+  "height": null,
+  "caption": null,
+  "content_hash": "393b39c1e4c710303ed3f7d446f23956b10fe88222dee14d09751894ee65c18c",
+  "last_error": null
+}

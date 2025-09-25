@@ -1,0 +1,20 @@
+{
+  "id": "1d3cef73dbb0417ba1407bb724ea2c01",
+  "type": "photo",
+  "created_at": "2025-09-24T23:02:51.171662+03:00",
+  "status": "SCHEDULED",
+  "attempts_download": 0,
+  "attempts_send": 0,
+  "next_retry_at": "2025-09-24T23:02:51.171662+03:00",
+  "run_at": "2025-10-09T14:08:54+03:00",
+  "url": null,
+  "video_path": null,
+  "photo_path": "queue\\media\\tg_photo_427_1.jpg",
+  "thumb_path": null,
+  "duration": null,
+  "width": null,
+  "height": null,
+  "caption": null,
+  "last_error": null,
+  "content_hash": "52b7cba57f45ad54fdd06b0c89357b6f0bd56e413f3f1a3f9edaa77e496b10b9"
+}

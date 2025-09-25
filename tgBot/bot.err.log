@@ -1,0 +1,46 @@
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\bot.py", line 17, in <module>
+    from aiogram import Bot, Dispatcher, F
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\aiogram\__init__.py", line 6, in <module>
+    from . import enums, methods, types
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\aiogram\methods\__init__.py", line 1, in <module>
+    from .add_sticker_to_set import AddStickerToSet
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\aiogram\methods\add_sticker_to_set.py", line 5, in <module>
+    from ..types import InputSticker
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\aiogram\types\__init__.py", line 3, in <module>
+    from .accepted_gift_types import AcceptedGiftTypes
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\aiogram\types\accepted_gift_types.py", line 5, in <module>
+    from .base import TelegramObject
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\aiogram\types\base.py", line 4, in <module>
+    from pydantic import BaseModel, ConfigDict, model_validator
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\pydantic\__init__.py", line 5, in <module>
+    from ._migration import getattr_migration
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\pydantic\_migration.py", line 4, in <module>
+    from .version import version_short
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\pydantic\version.py", line 5, in <module>
+    from pydantic_core import __version__ as __pydantic_core_version__
+  File "C:\Users\Пользователь\Desktop\pythonProject1\tgBot\.venv\Lib\site-packages\pydantic_core\__init__.py", line 6, in <module>
+    from ._pydantic_core import (
+ModuleNotFoundError: No module named 'pydantic_core._pydantic_core'
+[24.09.2025 11:23:55,72] .venv not found. Run run_bot_setup.cmd once to create it.
+[2025-09-24 11:25:42,171] INFO: Scheduler started
+[2025-09-24 11:25:42,173] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,173] INFO: Scheduled SEND send_2abd35c2f6874301a142b149999c2831 at 2025-09-26 22:07:44+03:00 (now 2025-09-24 11:25:42.173559+03:00)
+[2025-09-24 11:25:42,173] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,173] INFO: Scheduled SEND send_4c27465ffab2418a83988b178b7070d5 at 2025-09-27 18:35:20+03:00 (now 2025-09-24 11:25:42.173559+03:00)
+[2025-09-24 11:25:42,174] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,174] INFO: Scheduled SEND send_6cc4f22b84ac42639f5cb359ce071610 at 2025-09-25 21:21:31+03:00 (now 2025-09-24 11:25:42.174560+03:00)
+[2025-09-24 11:25:42,174] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,174] INFO: Scheduled SEND send_853cc568842643feba9b9951513436ff at 2025-09-24 18:03:50.513092+03:00 (now 2025-09-24 11:25:42.174560+03:00)
+[2025-09-24 11:25:42,175] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,175] INFO: Scheduled SEND send_86e0f614a9534bbc9bc8e99c42eb045a at 2025-09-25 21:25:13+03:00 (now 2025-09-24 11:25:42.175560+03:00)
+[2025-09-24 11:25:42,175] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,175] INFO: Scheduled SEND send_cd5e6958c70143b38a932b059e7d1fec at 2025-09-24 20:26:55.548206+03:00 (now 2025-09-24 11:25:42.175560+03:00)
+[2025-09-24 11:25:42,175] INFO: Added job "send_task" to job store "default"
+[2025-09-24 11:25:42,176] INFO: Scheduled SEND send_f09573ba2f6948419f0b7b79f7c235b3 at 2025-09-25 12:19:54+03:00 (now 2025-09-24 11:25:42.176562+03:00)
+[2025-09-24 11:25:42,176] INFO: Scheduler started; tasks restored
+[2025-09-24 11:25:42,176] INFO: Start polling
+[2025-09-24 11:25:42,367] INFO: Run polling for bot @Chesnok_dm_shorts_bot id=8225203113 - 'ChannelVKToTelegramBot'
+[2025-09-24 11:25:42,647] INFO: Update id=11006669 is handled. Duration 217 ms by bot id=8225203113
+[2025-09-24 11:25:42,688] INFO: Update id=11006670 is handled. Duration 250 ms by bot id=8225203113
+^C
